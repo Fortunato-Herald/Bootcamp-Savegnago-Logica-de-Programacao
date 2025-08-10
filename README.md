@@ -1,2 +1,2 @@
-# Bootcamp-Savegnago---L-gica-de-Programa-o
+# Bootcamp-Savegnago-Logica-de-Programacao
 Logica de programação com java script
